@@ -1,0 +1,10 @@
+{
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.codeLens.test": true,
+  "deno.codeLens.implementations": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.tabSize": 2
+  }
+}
